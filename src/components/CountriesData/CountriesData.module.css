@@ -1,0 +1,8 @@
+th,
+td {
+  font-size: small !important;
+}
+
+.paginationStyles {
+  min-height: 50px !important;
+}

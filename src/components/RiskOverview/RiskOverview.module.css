@@ -1,0 +1,51 @@
+.container {
+  background-image: url("../../images/cardbackground.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 250px;
+  height: 350px;
+  border-radius: 10px;
+  padding: 1em !important;
+  position: relative;
+}
+
+.heading {
+  color: white;
+  text-align: end;
+  width: 100%;
+  padding-top: 1em;
+}
+
+.icon {
+  padding-bottom: 20px;
+  width: 1em !important;
+  height: 1em !important;
+}
+
+.descriptionItem {
+  width: 100%;
+  padding: 0 !important;
+  color: white;
+}
+
+.info {
+  width: 50%;
+}
+
+.infoValue {
+  width: 50%;
+  text-align: end;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.description {
+  margin: 1px;
+}

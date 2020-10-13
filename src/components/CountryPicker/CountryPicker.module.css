@@ -1,4 +1,11 @@
 .formControl {
-    width: 30%;
-    margin-bottom: 30px !important;
+  width: 30%;
+  border: 1px solid white !important;
+  border-radius: 30px;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding-left: 10px !important;
 }
+
+/* select {
+  color: white !important;
+} */
